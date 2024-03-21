@@ -53,10 +53,6 @@ The passwords are stored in a JSON file named `passwords.json` with the followin
 }
 ```
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 Special thanks to the creators and maintainers of Tkinter and all dependencies used in this project.
